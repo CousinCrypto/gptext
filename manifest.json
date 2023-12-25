@@ -1,0 +1,11 @@
+{
+    "name": "Odin GPT Extension",
+    "version": "1.0.0",
+    "description": "This is an extension to use GPT in Chrome",
+    "manifest_version": 3,
+    "author": "Odin Bryant",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Odin GPT Extension"
+    }
+}
